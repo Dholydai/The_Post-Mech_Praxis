@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "signum3-cache")(type "Legacy")(uri "/home/troy/tower/Dropbox/kicad/signum3/signum3-cache.lib")(options "")(descr "")(disabled))
+)
