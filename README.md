@@ -2,7 +2,7 @@
 The "post-mechanical typewriter mechanical switch keyboard"... designed for children born in the third decade of the 21st century.
 
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD.
-The PCB design and controller programming were created by Troy Fletcher.
+The PCB design and controller program were created by Troy Fletcher.
 
 KB_Stl_Gen: files to create the cases using keyboard-stl-generator. Includes files for my single-hand keyboards.
 KiCad:      the PCB design files (see action item #1 below).
