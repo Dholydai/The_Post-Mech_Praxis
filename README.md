@@ -8,7 +8,7 @@ The PCB design and controller program were created by Troy Fletcher.
 
 Action Item #1: the missing gerber and hole files will be added soon.
 Action Item #2: the through holes for the Cherry stabs are too narrow, I file them out. The USB port is a bit wonky.
-Action Item #3: the case bottom halve may too long by 0.2-4 mm be keeping the top joints from butting up.
+Action Item #3: some case bottom dimensions are too long on X (likely several instances) keeping the case top joints from butting up.
 
 PS: The joints on the 200 mm bp three piece top are tight and strong. The 300 mm bp case top has a weaker joint, and the big part distorts when printed with ASA (too rectangular).
 
