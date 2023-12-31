@@ -1,5 +1,5 @@
 # The_Post-Mech_Praxis
-The "post-mechanical typewriter mechanical switch keyboard"... designed for children born in the third decade of the 21st century.
+The "post-mechanical typewriter mechanical switch keyboard"... designed for writers born in the third decade of the 21st century.
 
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD.
 The PCB design and controller program were created by Troy Fletcher.
