@@ -2,7 +2,7 @@
 The "post-mechanical typewriter mechanical switch keyboard"... designed for writers born in the third decade of the 21st century.
 
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD.
-The PCB design and controller program were created by Troy Fletcher.
+The PCB design and controller program were created by Troy Fletcher: https://github.com/TroyFletcher/vim-colors-synthwave
 
 ![IMG_1997](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/7d9906ec-d64b-45fb-8165-cec530d671c4)
 
