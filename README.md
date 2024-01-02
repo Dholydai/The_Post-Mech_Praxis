@@ -12,4 +12,6 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 PS: The joints on the 200 mm bp three piece case top are tight and strong. The 300 mm bp top has a weaker joint, and the big part distorts when printed with ASA.
 
+Missed my New Years deadline. A less stressful pace is adopted. Have a new goal of finishing before Feb 2024.
+
 Dholydai
