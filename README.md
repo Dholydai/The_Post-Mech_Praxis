@@ -4,6 +4,8 @@ The "post-mechanical typewriter mechanical switch keyboard"... designed for writ
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD.
 The PCB design and controller program were created by Troy Fletcher: https://github.com/TroyFletcher/vim-colors-synthwave
 
+![github04](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/bbc85ebf-d19a-4377-850c-0e069c4c6171)
+
 //Item #1: Found a flaw in the PCB design that is my fault. Removed the KiCad folder.
 //Item #2: The USB port is a bit wonky.
 //Item #3: Some case bottom dimensions are too long on X by tenths of a mm, keeping the case top joints from butting up.
