@@ -1,0 +1,14 @@
+@ function i(n) =
+@    n*25.4;
+@ function in2mm(n) =
+@    n*25.4;
+@ function hyp(n) =
+@    sqrt(n*n + n*n);
+@ board_thickness = 4;
+(expt 8 2)
+(sqrt 64)
+;; this calculates the radius from circle notation
+(sqrt (+ (expt (- Xa Xb) 2) (expt (- Ya Yb) 2)))
+(setq Xa 47.625) (setq Ya 28.575) (setq Xb 52.3875) (setq Yb 30.95625)
+(gr_circle (setq Xa 193.6) (setq Ya 45.371596) (setq Xb 195.2) (setq Yb 44.371596)
+@ polygon(points=[[366.7125,145.25625],[19.05,145.25625],[19.05,19.05],[366.7125,19.05],]);
