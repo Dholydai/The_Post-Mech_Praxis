@@ -1,6 +1,6 @@
 # The_Post-Mech_Praxis
 The "post-mechanical typewriter mechanical switch keyboard"... for writers born in the third decade of the 21st century.
-_This keyboard design is ISO compliant. The Post-Mech is going to be cordially received in Europe._  
+_This keyboard design is ISO compliant... the European standard._  
 
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD. In "Image" there is a photo of the ribs that strengthen the underside of the case top! 
 The PCB design and controller program were created by Troy Fletcher: https://github.com/TroyFletcher/vim-colors-synthwave In "KiCad" there is a reversable PCB for left or right Dvorak!
