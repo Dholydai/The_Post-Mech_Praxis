@@ -14,6 +14,4 @@ Please visit https://post-mech.com
 
 PS: The joints on the 200 mm bp three piece case top are tight and strong. The 300 mm bp top has a weaker joint, and the big part distorts when printed with ASA (scaled at %100.7 for shrinkage).
 
-See.
-
 Dholydai
