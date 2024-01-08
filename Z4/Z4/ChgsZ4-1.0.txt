@@ -1,0 +1,18 @@
+Global Changes: not recorded (unless substantive changes are required)
+
+A: Use the indefinite "a/an" to introduce something followed by definite article "the" thereafter.
+B: Avoid wishy-washy language (should, would and could).
+C: Reduce the use of parentheses and quotes.
+
+
+1. Z3Belmont-1.3 Page 25, Sect 2, Para 5: Need to add two more notebook keymaps... started... removed changes. DO NOT REJECT CURRENT CHANGES!!!
+
+2. Z3Belmont-1.3 Page 27, Sect 2, Para 1:  Need to add two more notebook keymaps... started... removed changes. DO NOT REJECT CURRENT CHANGES!!!
+
+3. Z3Belmont-1.3 Page 29, Sect 4, Para 2, Line 1: Added a rule to cover the optional relocation of "bracket over brace" keys to the numbers-row.
+
+4. Z3Belmont-1.3 Page 29, Sect 4, Para 2, Line 2: Added "(rule #1 remains an option)".
+
+5. Z3Belmont-1.3 Page 29, Sect 4, Para 2, Line 3: Changed "reset as before" to "relocated to the left end of the row". Added "(rule #1 remains an option)". Added "the extended" (x2) to vowels/consonants.
+
+6. Z3Belmont-1.3 Page 31, Sect DD-SE: Relocated after Sect BTRFC.

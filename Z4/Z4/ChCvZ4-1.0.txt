@@ -1,0 +1,14 @@
+Changes:
+
+
+#1. Z3Cover-1.0 Sect "Drawings": Removed
+
+2. Z3Cover-1.0 Sect TF: Changed to "Background"(per Pressman)!
+
+3. Z3Cover-1.0 Sect BOTI: Changed to "Background―Discussion of Prior Art".
+
+4. Z3Cover-1.0 Sub Sect 6: Changed "The Mobile Computing Revolution" to "Refutation of Related Art".
+
+5. Z3Cover-1.0 Sect DORA: Removed (relocated to the above).
+
+6. Z3Cover-1.0 Sect BSOTIAIO: Changed to "Summmary".
