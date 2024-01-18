@@ -14,6 +14,6 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 Please visit https://post-mech.com
 
-Note: There is a reversable PCB design in the KiCad folder for single-hand Dvorak keyboards. Never built, programmed, or tested. Ordered the PCBs.
+Note: There is a reversable PCB design in the KiCad folder for single-hand Dvorak keyboards. Never built, programmed, or tested. I have received the PCBs.
 
 Dholydai
