@@ -10,6 +10,8 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 //Item #1: Fixed the wonky USB port. Files to be released soon.
 //Item #2: Adding mechanical joints to fix all of the case sections together with screws. Files to be released soon.
 
+18 Jan 2024: ASA fumes have become intollerable despite many precautions. Having difficulty finding a non-toxic filament to make screw-fixed keyboard cases. Prints on my Voron Trident 350 using structurally enhanced PLA are (or seem to be) dimensionally challanged. Reprinting the top sections on my Prusa Mk3s+ printer.
+
 Please visit https://post-mech.com
 
 Note: There is a reversable PCB design in the KiCad folder for single-hand Dvorak keyboards. Never built, programmed, or tested. Ordered the PCBs.
