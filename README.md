@@ -17,5 +17,6 @@ Please visit https://post-mech.com
 
 ![MJJJ0962x](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/82fedcca-e46a-4d84-a4b5-ca568a61d11e)
 
-Note: Received new Rev 2 PCBs for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of PCBWay's products is excellent. 
+Note: Received new Rev 2 PCBs for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of PCBWay's products is excellent.
+
 Dholydai
