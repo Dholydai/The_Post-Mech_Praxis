@@ -7,13 +7,15 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 ![IMG_2024x](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/60f82a38-c008-450a-804f-bab9b7e3adc9)
 
-//Item #1: Fixed the wonky USB port. Files to be released soon.
-//Item #2: Adding mechanical joints to fix all of the case sections together with screws. Files to be released soon.
+//Released the Rev 2 keyboard case files, which fixed the wonky USB port and added screwed fasteners to the various sections. I call it "The Slab."
 
-18 Jan 2024: ASA fumes have become intollerable despite many precautions. Having difficulty finding a non-toxic filament to make screw-fixed keyboard cases. Prints on my Voron Trident 350 using structurally enhanced PLA are (or seem to be) dimensionally challanged. Reprinting the top sections on my Prusa Mk3s+ printer.
+![PUPK8463](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/9368d436-772e-49ea-ae55-4501b976b6e2)
 
+18 Jan 2024: ASA fumes have become intollerable despite many precautions. Decided to add mechanical connections to the case so everyone can use non-toxic 3D printing filament.
 Please visit https://post-mech.com
 
-Note: There is a reversable PCB design in the KiCad folder for single-hand Dvorak keyboards. Never built, programmed, or tested. I have received the PCBs.
 
+![MJJJ0962x](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/82fedcca-e46a-4d84-a4b5-ca568a61d11e)
+
+Note: Received new Rev 2 PCBs for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of PCBWay's products is excellent. 
 Dholydai
