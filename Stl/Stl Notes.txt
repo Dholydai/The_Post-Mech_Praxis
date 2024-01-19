@@ -1,0 +1,16 @@
+Files for 3D printer slicing programs:
+
+1. The case top files (created using Keyboard Stl Generator) have hundreds of small flaws. PrusaSlicer or SuperSlicer have a "right click to repair with Netfab" feature that must be used. Slicing without repairing first is impossible. The bad behavior of unrepaired files is quickly apparent in the slicer program.
+
+2. Cases can be printed using many 3D printing materials. Suitable materials do shrink and warp when cooled. Tolerences are tight around the key switches, that shrinkage must be compensated for by "scaling" the print up a tiny bit.
+
+3. Tried using ASA, which produces toxic fumes during printing, because it can be strongly glued together. Despite all possible efforts to contain and capture the fumes I got sick during several printing sessions.The symptoms were sinus headache and low blood pressure (worst episode my BP was 65/40). Vitamins cured it quickly.
+
+4. Added mechanical connections to the case bottom halves and and case top sections. Have used PETG and PLA Meta to print cases.
+
+5. Scaling up the next PLA Meta stl files to 100.3% in the slicer hoping that will be correct to counter the shrinkage.
+
+5. Adding the screwed connectors has produced a case that I call "The Slab" because in does not flex and flop about, at all. Quite proud of this work.
+
+Dholydai 
+
