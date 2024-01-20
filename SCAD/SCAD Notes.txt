@@ -1,0 +1,7 @@
+Files created by keyboard_stl_generator (using SolidPython) and OpenScad. The case top files are modified to place the USB port correctly and add mechanical fasteners to every joint.
+
+With screwed fasteners, a very solid case can be made using non-toxic materials. Mechanically enhanced PLA or PETG can be printed without an enclosure. There is no glue that can hold PLA or PETG.
+
+Despite the best precautions I have been made ill by exposure to ASA fumes. I modified the case so there is no need for Post-Mech builders to breath toxic fumes.
+
+Dholydai
