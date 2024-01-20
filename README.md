@@ -14,9 +14,6 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 18 Jan 2024: ASA fumes have become intollerable despite many precautions. Decided to add mechanical connections to the case so everyone can use non-toxic 3D printing filament.
 Please visit https://post-mech.com
 
-
-![MJJJ0962x](https://github.com/Dholydai/The_Post-Mech_Praxis/assets/116427384/82fedcca-e46a-4d84-a4b5-ca568a61d11e)
-
 Note: Received new Rev 2 PCBs for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of PCBWay's products is excellent.
 
 Dholydai
