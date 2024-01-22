@@ -11,6 +11,6 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 Please visit https://post-mech.com
 
-Note: Received new Rev 2 PCBs for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of PCBWay's products is excellent.
+Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of is excellent.
 
 Dholydai
