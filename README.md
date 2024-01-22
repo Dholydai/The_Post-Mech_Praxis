@@ -1,5 +1,6 @@
 # The_Post-Mech_Praxis
 The "post-mechanical typewriter mechanical switch keyboard"... for writers born in the third decade of the 21st century.
+
 _This keyboard is hardwired... plug-n-play. It works with the US-English drivers of Windows and Linux._  
 
 The cases were created using https://github.com/jeffminton/keyboard_stl_generator and OpenSCAD. 
@@ -11,6 +12,6 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 Please visit https://post-mech.com
 
-Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. The quality of is excellent.
+Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. Now building #4. The quality of the PCB is excellent.
 
 Dholydai
