@@ -12,6 +12,14 @@ The PCB design and controller program were created by Troy Fletcher: https://git
 
 Please visit https://post-mech.com
 
-Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, and the reversable PCBs for single-hand Dvorak keyboards. Now building #4. The quality of the PCB is excellent.
+1. THIS IS AN EXPERIMENTAL KEYBOARD: Get it wrapped in a case before firing it up. Static discharge to a PCB will damage the controller. On very rare occasion flakey output has been a problem. That is usually solved by hot-plugging, or rebooting the PC.
+
+2. DO NOT MAKE THIS MISTAKE: I did not trim the leads of switch K8 flush with the PCB. The long lead shorted the switch to ground through the USB-C connector. The brand new Elite-C controller was killed on first power-up.
+
+3. TO REPLACE THE CONTROLLER: Desolder the Elite-C as best you can. Carefully break up the little PCB with needle nose pliers, being careful to avoid twisting the headers. Desolder and remove the torn piecess of through-hole barrels stuck to the header pins. Solder the new controller to the old headers.
+
+Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, he quality of the PCBs is excellent... now building #4. Also received the reversable PCBs for single-hand Dvorak keyboards designed by Troy Fletcher.
+
+The two-hand Post-Mech keyboard PCB is available for purchase from PCBWay in lots of five: Part Number  
 
 Dholydai
