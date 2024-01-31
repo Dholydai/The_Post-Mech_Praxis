@@ -18,8 +18,6 @@ Please visit https://post-mech.com
 
 3. TO REPLACE THE CONTROLLER: Desolder the Elite-C as best you can. Carefully break up the little PCB with needle nose pliers, being careful to avoid twisting the headers. Desolder and remove the torn piecess of through-hole barrels stuck to the header pins. Solder the new controller to the old headers.
 
-Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, he quality of the PCBs is excellent... now building #4. Also received the reversable PCBs for single-hand Dvorak keyboards designed by Troy Fletcher.
-
-The two-hand Post-Mech keyboard PCB is available for purchase from PCBWay in lots of five: Part Number  
+Note: Received new Rev 2 PCBs from PCBWay for two-hand keyboards, the quality of the PCBs is excellent... now building #4. Also received the reversable PCBs for single-hand Dvorak keyboards designed by Troy Fletcher. Good job.
 
 Dholydai
